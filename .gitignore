@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+*.env
+
+# Frontend dependencies/build
+node_modules/
+dist/
+
+# Backup/archive files
+frontend/Deal_Room_UI_Updated_src.zip
+frontend/src_org.zip
+
+# Coverage
+.coverage
+htmlcov/
+
+# Alembic cache
+backend/migrations/__pycache__/
+
+# Zip files
+*.zip
+venv/
+venv/
